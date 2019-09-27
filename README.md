@@ -1,3 +1,3 @@
-# Sprinbok/Impala
+# Impala/Springbok
 
 ![](springbok-impala-banner.png)
